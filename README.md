@@ -18,9 +18,9 @@ In this project, we tried Logistic Regression,  Random Forest and Gradient Boost
 
 ## File Structure
 
-- mini_sparkify_event_data.json: 
-- Sparkify-zh.ipynb
-- Sparkify-zh.html
+- mini_sparkify_event_data.json: log data of psarkify. We use this it in this project. It contains 225 distinct users.
+- Sparkify-zh.ipynb: this is the python notebook file which contains all the analysis code with pyspark.
+- Sparkify-zh.html: this is a HTML version of the notebook
 
 ## Project Briefs
 
