@@ -98,27 +98,27 @@
 
 3. 付过费的用户流失率略低，说明付过费的用户更认可该产品，也可能是因为产品得到了认可才付费的。如下图所示。
 
-![1591018701460](C:\Users\huqua\AppData\Roaming\Typora\typora-user-images\1591018701460.png)
+![](https://farmerhoo-blog-1258360101.cos.ap-shanghai.myqcloud.com/img/20200602210419.png)
 
 4. 流失用户所听歌曲数量相对较少，如下图所示。
 
-![1591018728108](C:\Users\huqua\AppData\Roaming\Typora\typora-user-images\1591018728108.png)
+![](https://farmerhoo-blog-1258360101.cos.ap-shanghai.myqcloud.com/img/20200602210449.png)
 
 5. 流失用户添加歌曲至播放清单的数量相对更少，如下图所示。
 
-![1591018746832](C:\Users\huqua\AppData\Roaming\Typora\typora-user-images\1591018746832.png)
+![](https://farmerhoo-blog-1258360101.cos.ap-shanghai.myqcloud.com/img/20200602210530.png)
 
 6. 流失用户添加朋友的数量相对更少，如下图所示。
 
-![1591018764470](C:\Users\huqua\AppData\Roaming\Typora\typora-user-images\1591018764470.png)
+![](https://farmerhoo-blog-1258360101.cos.ap-shanghai.myqcloud.com/img/20200602210603.png)
 
 7. 流失用户的交互次数相对更少，如下图所示。
 
-![1591018790850](C:\Users\huqua\AppData\Roaming\Typora\typora-user-images\1591018790850.png)
+![](https://farmerhoo-blog-1258360101.cos.ap-shanghai.myqcloud.com/img/20200602210626.png)
 
 8. 流失用户打开app的次数相对更少，如下图所示。
 
-![1591018814049](C:\Users\huqua\AppData\Roaming\Typora\typora-user-images\1591018814049.png)
+![](https://farmerhoo-blog-1258360101.cos.ap-shanghai.myqcloud.com/img/20200602210649.png)
 
 9. 流失用户注册天数明显更短，如下图所示。
 
